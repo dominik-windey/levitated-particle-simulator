@@ -36,7 +36,7 @@ import pandas as pd
 
 # Imports for non standard libraries
 import sdeint
-from optomechanics.theory.particle_simulator.physics import Equations
+from physics import Equations
 
 class LevitatedParticle:
     """ This class represents a levitated particle. All necessary material properties should be stored here. """
