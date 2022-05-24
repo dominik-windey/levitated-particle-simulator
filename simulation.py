@@ -1,5 +1,5 @@
 """ This module simulates the stochastic motion of levitated particles under the influence of translational and rotational
-acceleration. This module is a joint collaboration of several members of the nanophotonics group.
+acceleration.
 
 To develop code I recommend the following software:
  - PyCharm is my favourite IDE and integrates nicely with git
